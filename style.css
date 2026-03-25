@@ -417,6 +417,7 @@ span {
         padding: 7rem;
     }
     .portfolio {
+        padding: 50px;
         padding-bottom: 7rem;
     }
 
@@ -504,9 +505,9 @@ span {
         height: 40vh;
     }
     .about-img img {
-        width: 45vw;
-        height: 50vh;
-        margin-top: 4rem;
+        width: 50vw;
+        height: 45vh;
+        margin-top: 3rem;
     }
 }
 
