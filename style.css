@@ -500,13 +500,13 @@ span {
     }
 
     .home-img img {
-        width: 40vw;
+        width: 45vw;
         height: 40vh;
     }
     .about-img img {
         width: 50vw;
         height: 45vh;
-        margin-top: 3rem;
+        margin-top: 4rem;
     }
 }
 
