@@ -172,7 +172,7 @@ span {
 }
 
 .about-img img {
-    /* width: 20.5vw; */
+    width: 20.5vw;
     height: 65vh;
     border-radius: 30%;
     border: .6rem solid var(--main-color);
@@ -504,9 +504,9 @@ span {
         height: 40vh;
     }
     .about-img img {
-        width: 45vw;
-        height: 50vh;
-        margin-top: 4rem;
+        width: 50vw;
+        height: 450vh;
+        margin-top: 3rem;
     }
 }
 
